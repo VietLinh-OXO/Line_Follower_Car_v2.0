@@ -17,7 +17,7 @@ float previous_error = 0, previous_I = 0;
 unsigned long hien_tai = 0;
 unsigned long thoi_gian;
 int thoi_gian_cho = 30;  // thời gian để đọc giá trị cảm biến
-char gia_tri_xe;
+
 
 int mau_vach = 1;  // nếu vạch là màu đen thì để giá trị là 1 , vạch màu trắng là 0
 // khai báo các chân kết nối  của cảm biến
